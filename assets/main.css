@@ -1,0 +1,25 @@
+body {
+	font-family: serif;
+}
+
+h1 {
+}
+
+a {
+	cursor: pointer;
+	color: #4682B4;
+}
+
+.content {
+	line-height:1.5;
+	padding: 10px;
+}
+
+button {
+	padding: 10px;
+	background-color: #008080;
+	border-radius: 5px;
+	border: 2px solid black;
+	color: #FFFFFF;
+	font-weight: bold;
+}
